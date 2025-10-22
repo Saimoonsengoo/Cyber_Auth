@@ -1,6 +1,6 @@
 # 🛡️ Cyber_Auth
 
-A simple and secure authentication system for modern web applications — built using **Node.js**, **Express**, **MongoDB**, and **React**.  
+A simple and secure authentication system for modern web applications built using **Node.js**, **Express**, **MongoDB**, and **React**.  
 Cyber_Auth provides **user registration, login, email verification, token management**, and **Google reCAPTCHA** integration to ensure strong protection against unauthorized access and bot attacks.
 
 ## ✨ Features
