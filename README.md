@@ -63,12 +63,12 @@ Cyber_Auth provides **user registration, login, email verification, token manage
 
 ## 🚀 Quick Start
 
-1️⃣ Clone the Repository
+1.Clone the Repository
 ```bash
 git clone https://github.com/Saimoonsengoo/Cyber_Auth.git
 cd Cyber_Auth
 
-2️⃣ Install Dependencies
+2.Install Dependencies
 🔧 Backend
 | Package           | Purpose                                              |
 | ----------------- | ---------------------------------------------------- |
@@ -103,7 +103,7 @@ cd Cyber_Auth
 | vite                 | Frontend build tool for fast development and optimized builds |
 
 
-3️⃣ Setup Environment Variables
+3.Setup Environment Variables
 Create a .env file in both frontend and backend directories.
 .env (backend)
 MONGO_URI=your_mongodb_atlas_connection_string
@@ -116,7 +116,7 @@ PORT=5000
 REACT_APP_BACKEND_URL=http://localhost:5000
 REACT_APP_RECAPTCHA_SITE_KEY=your_recaptcha_key
 
-4️⃣ Run the Application
+4.Run the Application
 (Backend)
 -cd backend
 -npm run dev
