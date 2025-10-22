@@ -29,6 +29,7 @@ Cyber_Auth provides **user registration, login, email verification, token manage
 
 
 📁 Project Structure
+
 🖥️ Backend
 
 /backend
@@ -61,7 +62,7 @@ Cyber_Auth provides **user registration, login, email verification, token manage
 - Google reCAPTCHA site & secret keys  
 
 
-## 🚀 Quick Start
+🚀 Quick Start
 
 1.Clone the Repository
 ```bash
