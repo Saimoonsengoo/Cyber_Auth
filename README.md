@@ -143,30 +143,30 @@ REACT_APP_RECAPTCHA_SITE_KEY=your_recaptcha_key
 
 ### 🧠 Frontend Overview
 
--React Context API manages global user authentication state.
--User data persists in localStorage for seamless session continuity.
--Conditional rendering protects routes for authenticated users only.
--Tailwind CSS provides a clean, responsive, and minimal UI design.
--Integrated Google reCAPTCHA v2 ensures security against automated logins and spam.
+- React Context API manages global user authentication state.
+- User data persists in localStorage for seamless session continuity.
+- Conditional rendering protects routes for authenticated users only.
+- Tailwind CSS provides a clean, responsive, and minimal UI design.
+- Integrated Google reCAPTCHA v2 ensures security against automated logins and spam.
 
 ---
 
 ### 🧱 Backend Overview
 
--Built on Express.js using MVC structure for scalability.
--JWT for secure token-based authentication.
--bcrypt for hashing passwords.
--Mailtrap SMTP sends OTP verification emails.
--Middleware handles errors and verifies tokens efficiently.
+- Built on Express.js using MVC structure for scalability.
+- JWT for secure token-based authentication.
+- bcrypt for hashing passwords.
+- Mailtrap SMTP sends OTP verification emails.
+- Middleware handles errors and verifies tokens efficiently.
 
 ---
 
 ### 🧩 Development Notes
 
--Keep JWT_SECRET and database credentials out of version control.
--Use .gitignore to exclude .env and other sensitive files.
--Regularly rotate secrets and tokens.
--Optional: implement rate limiting to prevent brute-force attacks.
+- Keep JWT_SECRET and database credentials out of version control.
+- Use .gitignore to exclude .env and other sensitive files.
+- Regularly rotate secrets and tokens.
+- Optional: implement rate limiting to prevent brute-force attacks.
 
 ---
 
