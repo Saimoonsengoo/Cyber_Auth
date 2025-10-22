@@ -41,15 +41,17 @@ Cyber_Auth provides **user registration, login, email verification, token manage
 ├── routes/
 ├── server.js
 └── .env
+ ```
 
 ### 💻 Frontend
-/frontend
+```/frontend
 ├── components/
 ├── contexts/
 ├── helpers/
 ├── pages/
 ├── routers/
 └── .env
+```
 > Both frontend and backend follow an MVC-inspired design for better maintainability and scalability.
 
 ---
