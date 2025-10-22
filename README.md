@@ -40,7 +40,7 @@ Cyber_Auth provides **user registration, login, email verification, token manage
 ├── models/
 ├── routes/
 ├── server.js
-├── .env
+└── .env
 
 ### 💻 Frontend
 /frontend
@@ -49,7 +49,7 @@ Cyber_Auth provides **user registration, login, email verification, token manage
 ├── helpers/
 ├── pages/
 ├── routers/
-├── .env
+└── .env
 > Both frontend and backend follow an MVC-inspired design for better maintainability and scalability.
 
 ---
@@ -186,6 +186,6 @@ REACT_APP_RECAPTCHA_SITE_KEY=your_recaptcha_key
 ---
 
 ## 📬 Contact
-Maintainer: Sai Moon Seng Oo
-Email: saimoonseng001@gmail.com
-GitHub: @Saimoonsengoo
+**Maintainer:** Sai Moon Seng Oo  
+**Email:** saimoonseng001@gmail.com  
+**GitHub:** [@Saimoonsengoo](https://github.com/Saimoonsengoo)o
