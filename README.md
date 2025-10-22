@@ -30,6 +30,7 @@ Cyber_Auth provides **user registration, login, email verification, token manage
 
 📁 Project Structure
 🖥️ Backend
+
 /backend
 ├── controllers/
 ├── helpers/
@@ -41,6 +42,7 @@ Cyber_Auth provides **user registration, login, email verification, token manage
 ├── .env
 
 💻 Frontend
+
 /frontend
 ├── components/
 ├── contexts/
@@ -67,8 +69,38 @@ git clone https://github.com/Saimoonsengoo/Cyber_Auth.git
 cd Cyber_Auth
 
 2️⃣ Install Dependencies
-<img width="447" height="512" alt="image" src="https://github.com/user-attachments/assets/f095fcad-bc97-49ef-864a-8aa41351db0a" />
-<img width="367" height="601" alt="image" src="https://github.com/user-attachments/assets/e2d98089-1ccc-46c3-9a21-82666a17bb5a" />
+🔧 Backend
+| Package           | Purpose                                              |
+| ----------------- | ---------------------------------------------------- |
+| express           | Web framework for building RESTful APIs              |
+| mongoose          | ODM (Object Data Modeling) library for MongoDB       |
+| mongodb           | Official MongoDB driver for Node.js                  |
+| bcrypt            | Secure password hashing and salting                  |
+| jsonwebtoken      | Handles user authentication using JWT tokens         |
+| cookie-parser     | Parses cookies for session handling                  |
+| cors              | Enables Cross-Origin Resource Sharing                |
+| dotenv            | Loads environment variables from `.env` file         |
+| nodemailer        | Sends verification and notification emails           |
+| mailtrap          | Testing email functionality safely in development    |
+| express-validator | Validates and sanitizes incoming request data        |
+| morgan            | Logs HTTP requests for debugging                     |
+| nodemon           | Automatically restarts the server during development |
+
+🎨 Frontend Dependencies
+| Package              | Purpose                                                       |
+| -------------------- | ------------------------------------------------------------- |
+| react                | Core library for building user interfaces                     |
+| react-dom            | Renders React components to the DOM                           |
+| react-router-dom     | Handles client-side routing and navigation                    |
+| axios                | Makes HTTP requests to the backend API                        |
+| tailwindcss          | Utility-first CSS framework for responsive UI design          |
+| @headlessui/react    | Provides unstyled, accessible UI components                   |
+| @heroicons/react     | Includes SVG icons for React projects                         |
+| react-icons          | Provides a large set of popular icon packs                    |
+| react-hook-form      | Manages form state and validation efficiently                 |
+| react-toastify       | Displays success/error notifications in the UI                |
+| @vitejs/plugin-react | Enables React fast refresh and JSX support in Vite            |
+| vite                 | Frontend build tool for fast development and optimized builds |
 
 
 3️⃣ Setup Environment Variables
