@@ -188,6 +188,6 @@ REACT_APP_RECAPTCHA_SITE_KEY=your_recaptcha_key
 ---
 
 ## 📬 Contact
-**Maintainer:** Sai Moon Seng Oo  
-**Email:** saimoonseng001@gmail.com  
-**GitHub:** [@Saimoonsengoo](https://github.com/Saimoonsengoo)o
+**Maintainer:** Sai Moon Seng Oo (Steven)  
+**Email:** saimoonsengoo1@gmail.com  
+**GitHub:** [@Saimoonsengoo](https://github.com/Saimoonsengoo)
