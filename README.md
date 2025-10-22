@@ -32,24 +32,24 @@ Cyber_Auth provides **user registration, login, email verification, token manage
 ## 📁 Project Structure
 
 ### 🖥️ Backend
-/backend
-├── controllers/
-├── helpers/
-├── mailtrap/
-├── middleware/
-├── models/
-├── routes/
-├── server.js
-└── .env
+`/backend `
+`├── controllers/`
+`├── helpers/`
+`├── mailtrap/`
+`├── middleware/`
+`├── models/`
+`├── routes/`
+`├── server.js`
+`└── .env`
 
 ### 💻 Frontend
-/frontend
-├── components/
-├── contexts/
-├── helpers/
-├── pages/
-├── routers/
-└── .env
+`/frontend`
+`├── components/`
+`├── contexts/`
+`├── helpers/`
+`├── pages/`
+`├── routers/`
+`└── .env`
 > Both frontend and backend follow an MVC-inspired design for better maintainability and scalability.
 
 ---
