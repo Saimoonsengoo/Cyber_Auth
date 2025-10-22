@@ -68,9 +68,10 @@ Cyber_Auth provides **user registration, login, email verification, token manage
 ## 🚀 Quick Start
 
 ### 1. Clone the Repository
-`bash`
-`git clone https://github.com/Saimoonsengoo/Cyber_Auth.git`
-`cd Cyber_Auth`
+```bash
+git clone https://github.com/Saimoonsengoo/Cyber_Auth.git
+cd Cyber_Auth
+```
 
 ---
 ### 2. Install Dependencies
@@ -131,13 +132,15 @@ REACT_APP_RECAPTCHA_SITE_KEY=your_recaptcha_key
 
 #### Backend
 
-`cd backend`
-`npm run dev`
+```cd backend
+npm run dev
+```
 
 #### Frontend
 
-`cd frontend`
-`npm run dev`
+```cd frontend
+npm run dev
+```
 
 ---
 
