@@ -116,16 +116,19 @@ cd Cyber_Auth
 Create a .env file in both frontend and backend directories.
 
 #### Backend .env
+```
 MONGO_URI=your_mongodb_atlas_connection_string
 JWT_SECRET=your_secure_jwt_secret
 MAILTRAP_USER=your_mailtrap_username
 MAILTRAP_PASS=your_mailtrap_password
 PORT=5000
+```
 
 #### Frontend .env
+```
 REACT_APP_BACKEND_URL=http://localhost:5000
 REACT_APP_RECAPTCHA_SITE_KEY=your_recaptcha_key
-
+```
 ---
 
 ### 4. Run the Application
